@@ -12,10 +12,10 @@ All of the content will be released both in English and Spanish and you can find
 
 - 🇬🇧 English version
   - [Serverless 101](./EN/serverless)
-  - [Cloud 101](./EN/cloud)
+  - [Cloud 101](./EN/cloud-computing)
 - 🇲🇽 Spanish version
   - [Informática sin servidor 101](./ES/serverless)
-  - [La nube 101](./ES/cloud)
+  - [La nube 101](./ES/cloud-computing)
 
 
 ✨🙋🏻‍♀️ Want to translate into other languages? Let me know!
