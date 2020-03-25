@@ -6,7 +6,7 @@
 
 The digital assets for the series of infographics I produce. The goal of these is to provide insight on tech, tools, and techniques in easy to digest formats.
 
-## Content
+## Infographics table of content
 
 All of the content will be released both in English and Spanish and you can find it here:
 
@@ -20,19 +20,25 @@ All of the content will be released both in English and Spanish and you can find
 
 ✨🙋🏻‍♀️ Want to translate into other languages? Let me know!
 
-## 📃 Licensing
+## 🙌🏼 Contributing
 
-- All the content here has a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
-- You can use, print, share and modify but make sure to keep the attribution to the original source.
+In the meantime: if you encounter any problems please open an [issue][issues] in this repo.
 
-## 🙌🏼 Contributing guidelines coming soon!
-
-In the meantime: if you encounter any problems please open an issue in this repo.
-
-Also if you want to suggest topics create an issue!
+If you want to suggets a topic to make an infographic on please use the `new topic` template in this repo [issues][issues] ✨.
 
 ## 📝 Further resources
 
 - ☁️ [Azure fundamentals interactive tutorial](https://docs.microsoft.com/learn/paths/azure-fundamentals/?WT.mc_id=tech-bites-github-taallard)
 - ⚡️ [Azure serverless computing](https://azure.microsoft.com/en-gb/overview/serverless-computing/?WT.mc_id=tech-bites-github-taallard)
 - 🐍 [Python on Azure](https://azure.microsoft.com/en-gb/develop/python/)
+  
+## 📃 Licensing
+
+- All the content here has a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+- You can use, print, share and modify but make sure to keep the attribution to the original source.
+
+
+
+
+[issues]: https://github.com/trallard/tech-bites/issues
+[link_repo]: https://github.com/trallard/tech-bites
