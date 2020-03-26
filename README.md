@@ -1,4 +1,4 @@
-# Tech bites Infographics
+![banner](assets/banner.png)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg?colorA=2D2A56&colorB=7A76C2&style=flat.svg)](https://creativecommons.org/licenses/by/4.0/)
 
