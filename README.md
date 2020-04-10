@@ -22,9 +22,11 @@ All of the content will be released both in English and Spanish and you can find
 
 ## 🙌🏼 Contributing
 
-In the meantime: if you encounter any problems please open an [issue][issues] in this repo.
-
 If you want to suggets a topic to make an infographic on please use the `new topic` template in this repo [issues][issues] ✨.
+
+You can find the contributing guidelines [here](./CONTRIBUTING.md).
+
+We are now accepting translations. Please check the contributing guidelines first and then use the `translation` template in this repo [issues][issues]. 🌎🌍🌏
 
 ## 📝 Further resources
 
