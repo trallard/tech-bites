@@ -30,9 +30,9 @@ We are now accepting translations. Please check the contributing guidelines firs
 
 ## 📝 Further resources
 
-- ☁️ [Azure fundamentals interactive tutorial](https://docs.microsoft.com/learn/paths/azure-fundamentals/?WT.mc_id=tech-bites-github-taallard)
-- ⚡️ [Azure serverless computing](https://azure.microsoft.com/en-gb/overview/serverless-computing/?WT.mc_id=tech-bites-github-taallard)
-- 🐍 [Python on Azure](https://azure.microsoft.com/en-gb/develop/python/)
+- ☁️ [Azure fundamentals interactive tutorial](https://docs.microsoft.com/learn/paths/azure-fundamentals/?WT.mc_id=academic-0000-taallard)
+- ⚡️ [Azure serverless computing](https://azure.microsoft.com/overview/serverless-computing/?WT.mc_id=academic-0000-taallard)
+- 🐍 [Python on Azure](https://azure.microsoft.com/develop/python/?WT.mc_id=academic-0000-taallard)
   
 ## 📃 Licensing
 
